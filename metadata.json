@@ -1,0 +1,6 @@
+{
+  "name": "Puentes de la Sierra - RED Etnocultural Iku-Español",
+  "description": "Recurso Educativo Digital interactivo y abierto para el fortalecimiento del español como segunda lengua mediante el andamiaje etnocultural de la lengua Iku del pueblo Arhuaco. Acceso gratuito, publicación comunitaria libre y descarga offline sin anuncios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
